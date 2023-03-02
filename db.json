@@ -1,5 +1,26 @@
 {
-  "users": [{ "id": 1, "name": "Myra" }],
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Myron Heller Sr.",
+      "id": 2
+    },
+    {
+      "name": "Joanna Smitham",
+      "id": 3
+    },
+    {
+      "name": "Jacquelyn Rippin",
+      "id": 4
+    },
+    {
+      "name": "Emmett Hegmann Sr.",
+      "id": 5
+    }
+  ],
   "albums": [],
   "photos": []
 }
