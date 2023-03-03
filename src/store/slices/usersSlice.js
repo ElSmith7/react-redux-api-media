@@ -1,13 +1,14 @@
 import { createSlice } from "@reduxjs/toolkit";
 import { fetchUsers } from "../thunks/fetchUsers";
 import { addUser } from "../thunks/addUser";
+import { removeUser } from "../thunks/deleteUser";
 
 const usersSlice = createSlice({
   name: "users",
   initialState: {
     data: [],
-    isLoading: false,
-    error: null,
+    // isLoading: false,
+    // error: null,
   },
   extraReducers(builder) {
     builder.addCase(fetchUsers.pending, (state, action) => {
