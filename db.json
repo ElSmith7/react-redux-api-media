@@ -9,6 +9,12 @@
       "id": 13
     }
   ],
-  "albums": [],
+  "albums": [
+    {
+      "id": 9,
+      "title": "Hiking Trip",
+      "userId": 13
+    }
+  ],
   "photos": []
 }
