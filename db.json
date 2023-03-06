@@ -7,6 +7,10 @@
     {
       "name": "Doyle Wisoky",
       "id": 13
+    },
+    {
+      "name": "Ernest Hoppe",
+      "id": 14
     }
   ],
   "albums": [
@@ -39,6 +43,46 @@
       "userId": 13,
       "title": "Fantastic Bronze Sausages",
       "id": 14
+    },
+    {
+      "userId": 13,
+      "title": "Luxurious Steel Ball",
+      "id": 15
+    },
+    {
+      "userId": 13,
+      "title": "Bespoke Concrete Tuna",
+      "id": 16
+    },
+    {
+      "userId": 13,
+      "title": "Modern Soft Car",
+      "id": 17
+    },
+    {
+      "userId": 13,
+      "title": "Small Cotton Cheese",
+      "id": 18
+    },
+    {
+      "userId": 13,
+      "title": "Rustic Soft Tuna",
+      "id": 19
+    },
+    {
+      "userId": 13,
+      "title": "Ergonomic Plastic Chips",
+      "id": 20
+    },
+    {
+      "userId": 13,
+      "title": "Gorgeous Rubber Chips",
+      "id": 21
+    },
+    {
+      "userId": 14,
+      "title": "Electronic Soft Ball",
+      "id": 22
     }
   ],
   "photos": []
