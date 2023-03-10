@@ -16,33 +16,8 @@
   "albums": [
     {
       "userId": 13,
-      "title": "Refined Steel Table",
-      "id": 10
-    },
-    {
-      "userId": 13,
-      "title": "Intelligent Concrete Tuna",
-      "id": 11
-    },
-    {
-      "userId": 13,
-      "title": "Fantastic Frozen Shoes",
-      "id": 12
-    },
-    {
-      "userId": 13,
-      "title": "Handcrafted Metal Bacon",
-      "id": 13
-    },
-    {
-      "userId": 13,
       "title": "Fantastic Bronze Sausages",
       "id": 14
-    },
-    {
-      "userId": 13,
-      "title": "Luxurious Steel Ball",
-      "id": 15
     },
     {
       "userId": 13,
@@ -98,6 +73,11 @@
       "userId": 13,
       "title": "Modern Soft Fish",
       "id": 26
+    },
+    {
+      "userId": 4,
+      "title": "Bespoke Fresh Table",
+      "id": 27
     }
   ],
   "photos": []
