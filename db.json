@@ -15,11 +15,6 @@
   ],
   "albums": [
     {
-      "id": 9,
-      "title": "Hiking Trip",
-      "userId": 13
-    },
-    {
       "userId": 13,
       "title": "Refined Steel Table",
       "id": 10
