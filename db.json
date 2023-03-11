@@ -80,5 +80,26 @@
       "id": 27
     }
   ],
-  "photos": []
+  "photos": [
+    {
+      "albumId": 23,
+      "url": "https://loremflickr.com/150/150/abstract?lock=38042",
+      "id": 1
+    },
+    {
+      "albumId": 23,
+      "url": "https://loremflickr.com/150/150/abstract?lock=39687",
+      "id": 2
+    },
+    {
+      "albumId": 14,
+      "url": "https://loremflickr.com/150/150/abstract?lock=73201",
+      "id": 5
+    },
+    {
+      "albumId": 23,
+      "url": "https://loremflickr.com/150/150/abstract?lock=38581",
+      "id": 7
+    }
+  ]
 }
